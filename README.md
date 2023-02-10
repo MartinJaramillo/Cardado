@@ -10,6 +10,7 @@ Es un repositositorio creado por uno de los mejores estudiantes de platzi, y si 
 - hacer una rama
 - hacer un merge
 - colaboraciones
+- fue echo con amor
 - hacer un fork
 ##Funcion
 Su funcion principal es la de ayudar al trabajo con colaboradores y a llevar un mejor registro de los documentos.
